@@ -21,7 +21,7 @@ NULL
 #'
 #' @references
 #'
-#' Zhou, F., Lu, X., Ren, J., Fan, K., Ma, S. and Wu, C. (2021+). Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study.
+#' Zhou, F., Lu, X., Ren, J., Fan, K., Ma, S. and Wu, C. (2022). Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study.
 #' {\emph{Genetic Epidemiology}} \doi{10.1002/gepi.22461}
 #'
 #' Zhou, F., Ren, J., Lu, X., Ma, S. and Wu, C. (2021). Gene-Environment Interaction: a Variable Selection Perspective.

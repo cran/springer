@@ -1,6 +1,6 @@
-5634af816f6e912543c8f31a1d5ded61 *DESCRIPTION
+90082c2721a459982581f3796c1aeed4 *DESCRIPTION
 cc5bedee7b6177e4709788f7cf0ac219 *NAMESPACE
-54124074c7b9bae2681fbe03bae23653 *NEWS.md
+cbb96bcb47f16746fb082cbee245c13c *NEWS.md
 6a3df73ca14380f0acf398b91a9a7e94 *R/RcppExports.R
 1eb1f13860e6315560a98fa3d129831f *R/cv.springer.R
 1978bf6d1ce089411c77704dd642a30e *R/data.R
@@ -8,10 +8,10 @@ cc5bedee7b6177e4709788f7cf0ac219 *NAMESPACE
 f6d0bca564758f56de8b8cd1c194a70d *R/penalty.R
 01261bb54d06c4731ca34e7d19ae51c6 *R/print.springer.R
 b04f14d5293dc6ab5ef386a1d160fecd *R/reformat.R
-90d8f286f225009fa90c20406c19b28a *R/springer-package.R
+5244f0a566b23f9e14c6b6c2502cd720 *R/springer-package.R
 5681c4d2e7a3ee06975ff6579f80b9cd *R/springer.R
-29521da9cb55fb46f0c27e56db5acadd *README.md
-268f672e4ddb14368021bfea97047955 *build/partial.rdb
+2d1b37edce31e96617175a38190d0a4e *README.md
+b1496df572996f2dd0416f3691d1a2f9 *build/partial.rdb
 2e040038dde48961f8b5135799929602 *data/dat.rda
 05b44ad5f810bc9c83048b709eef9540 *man/cv.springer.Rd
 afae0e5e84806cd91f688a7980911d1c *man/dat.Rd

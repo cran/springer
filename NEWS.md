@@ -1,3 +1,7 @@
+# springer 0.1.7 (2023-01-06)
+ * Fixed errors.
+ * Updated reference list.
+
 # springer 0.1.6 (2022-12-20)
  * Fixed minors and errors.
  * Updated source functions and examples.
