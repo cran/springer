@@ -54,4 +54,4 @@ Recently, regularized variable selection has emerged as a power tool to identify
 
 This package provides implementation for methods proposed in
 
-  - Zhou, F., Lu, X., Ren, J., Fan, K., Ma, S., & Wu, C. (2022). Sparse group variable selection for gene–environment interactions in the longitudinal study. Genetic Epidemiology, 46(5-6), 317-340.
+  - Zhou, F., Lu, X., Ren, J., Ma, S. and Wu, C. (2020+). Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study.
